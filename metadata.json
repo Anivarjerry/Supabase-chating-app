@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Chat",
+  "description": "A real-time chat application built with React, TypeScript, and Tailwind CSS, powered by Supabase for authentication, real-time messaging, and user presence.",
+  "requestFramePermissions": []
+}
